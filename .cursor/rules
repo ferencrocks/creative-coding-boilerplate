@@ -1,0 +1,14 @@
+# Experimental Creative Coding project
+
+## Core intention
+This project is a creative coding exploration. 
+It's meant to discover and explore creative coding techniques, intended for both beginners and experienced developers.
+
+## General rules
+Keep the "main" part of the code slim and easy to grasp. 
+
+Use functions to keep the code organized. Always write function docblocks:
+- Stating their core intentions.
+- Documenting the role and type of each of their parameter
+
+Always start your answer with which AI model is currently in use.
