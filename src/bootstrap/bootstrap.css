@@ -1,0 +1,19 @@
+html {
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    background-color: #000;
+}
+
+#viewport {
+    width: calc(80vh * 9/16);
+    height: 80vh;
+    background-color: #fff;
+}
